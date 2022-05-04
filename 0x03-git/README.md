@@ -9,3 +9,5 @@ added a file "98" to this branch, and updated text in "school" and "holberton" f
 removed the JS Folder and files from the main branch, and updated the "holberton" file with new text
 
 added text as example for cohort 18
+
+change 2
