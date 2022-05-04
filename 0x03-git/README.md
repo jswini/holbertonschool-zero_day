@@ -7,3 +7,5 @@ Files added to js are index.js and main.js
 Update 1: added a branch "update_script"
 added a file "98" to this branch, and updated text in "school" and "holberton" files
 removed the JS Folder and files from the main branch, and updated the "holberton" file with new text
+
+added text as example for cohort 18
